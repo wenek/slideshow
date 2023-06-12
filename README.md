@@ -1,2 +1,1 @@
-# slideshow
-zaliczenie
+# slideshow_
